@@ -1,5 +1,7 @@
 # FastAPI jwt example
 
+## An example of using a JWT token
+
 <details>
   <summary>Sign Up</summary>
     <img src="https://raw.githubusercontent.com/OptikRUS/fastapi-JWT-example/7984061030849051fe215678c955579f510c579d/img/1.png">
@@ -26,3 +28,5 @@
     <img src="https://raw.githubusercontent.com/OptikRUS/fastapi-JWT-example/7984061030849051fe215678c955579f510c579d/img/7.png">
     <img src="https://raw.githubusercontent.com/OptikRUS/fastapi-JWT-example/7984061030849051fe215678c955579f510c579d/img/8.png">
 </details>
+
+[FastAPI docs](https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/)
